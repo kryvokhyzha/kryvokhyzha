@@ -1,7 +1,7 @@
 ## Hi there, I'm Roman 👋
 
 ### About Me
-- :euro:  I'm currently a Big Data Analyst at [Kyivstar](https://kyivstar.ua/ru/business/products/big-data).
+- :euro:  I'm currently a Data Scientist at [Kyivstar](https://kyivstar.ua/ru/business/products/big-data).
 - :books: Study at the fourth course of FICT in KPI on "Information System and Technologies" specialization.
 
 ### Tech Stack
