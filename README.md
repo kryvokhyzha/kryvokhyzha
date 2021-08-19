@@ -9,8 +9,8 @@
 <pre>
 <b>></b> man kryvokhyzha
   <b>Main language:        </b> Python
-  <b>Additional languages: </b> NodeJS, Java, Scala
-  <b>Big data:             </b> Spark, Apache Hive
+  <b>Additional languages: </b> Java, Scala, NodeJS
+  <b>Big data:             </b> PySpark, Apache Hive
   <b>Database:             </b> Postgres, MongoDB
   <b>DevOps:               </b> Docker, Travis-CI
 <b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
