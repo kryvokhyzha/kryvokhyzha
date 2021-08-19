@@ -1,8 +1,9 @@
 ## Hi there, I'm Roman 👋
 
 ### About Me
-- :euro:  I'm currently a Data Scientist at [Kyivstar](https://kyivstar.ua/ru/business/products/big-data).
-- :books: Study at the fourth course of FICT in KPI on "Information System and Technologies" specialization.
+:euro: I'm currently a Data Scientist at [Kyivstar](https://kyivstar.ua/ru/business/products/big-data).
+:checkered_flag: Graduated from KPI, FICT, "Information System and Technologies" specialization.
+:books: Study at the fifth course of [KAU](https://kau.org.ua), "Computer Science" specialization.
 
 ### Tech Stack
 <pre>
