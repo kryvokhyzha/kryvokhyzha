@@ -2,8 +2,8 @@
 
 ### About Me
 :euro: I'm currently a Data Scientist at [Kyivstar](https://kyivstar.ua/ru/business/products/big-data).<br>
-:checkered_flag: Graduated from KPI, FICT, "Information System and Technologies" specialization.<br>
 :books: Study at the fifth course of [KAU](https://kau.org.ua), "Computer Science" specialization.<br>
+:checkered_flag: Graduated from KPI, FICT, "Information System and Technologies" specialization.<br>
 
 ### Tech Stack
 <pre>
