@@ -1,7 +1,7 @@
 ## Hi there, I'm Roman 👋
 
 ### About Me
-:euro: I'm currently a Machine Learning Engineer at [Kyivstar](https://kyivstar.ua/ru/business/products/big-data).<br>
+:euro: I'm currently a <b>Machine Learning Engineer</b> at [Kyivstar](https://kyivstar.ua/ru/business/products/big-data).<br>
 :books: Study at the fifth course of [KAU](https://kau.org.ua), "Computer Science" specialization.<br>
 :checkered_flag: Graduated from KPI, FICT, "Information System and Technologies" specialization.<br>
 
