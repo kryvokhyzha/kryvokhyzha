@@ -1,19 +1,3 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-.AnimatedImagePlayer-images .AnimatedImagePlayer-animatedImage {
-	position: absolute;
-  top: 2px;
-  left: 3px;
-}
-
-.AnimatedImagePlayer {
-	position: unset !important;
-}
-
-animated-image {
-	position: relative;
-}
-</style>")
 ## Hi there, I'm Roman 👋
 
 ### About
