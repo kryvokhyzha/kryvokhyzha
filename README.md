@@ -1,3 +1,19 @@
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+.AnimatedImagePlayer-images .AnimatedImagePlayer-animatedImage {
+	position: absolute;
+  top: 2px;
+  left: 3px;
+}
+
+.AnimatedImagePlayer {
+	position: unset !important;
+}
+
+animated-image {
+	position: relative;
+}
+</style>")
 ## Hi there, I'm Roman 👋
 
 ### About
@@ -6,15 +22,15 @@
 :checkered_flag: Graduated from KPI, FICT, "Information System and Technologies" specialization.<br>
 
 ### Tech Stack
-<pre>
-<b>></b> man kryvokhyzha
+<pre><b>></b> man kryvokhyzha
   <b>Main language:        </b> Python
   <b>Additional languages: </b> Java, Scala, JS
   <b>Big data:             </b> PySpark, Apache Hive
   <b>Database:             </b> Postgres, MongoDB
   <b>DevOps:               </b> Docker, Travis-CI
-<b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
+<b>></b>
 </pre>
 
 ### GitHub Analytics
 [![Stats](https://github-readme-stats.vercel.app/api/?username=kryvokhyzha&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
