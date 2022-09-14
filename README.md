@@ -2,7 +2,7 @@
 
 ### About
 
-✨ I'm currently a <b>Machine Learning Engineer</b> at [Kyivstar](https://kyivstar.ua/ru/business/products/big-data).<br>
+✨ Currently a <b>Machine Learning Engineer</b> at [Kyivstar](https://kyivstar.ua/ru/business/products/big-data).<br>
 :books: Study at the sixth course of [KAU](https://kau.org.ua), "Computer Science" specialization.<br>
 :checkered_flag: Graduated from KPI, FICT, "Information System and Technologies" specialization.<br>
 
