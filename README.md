@@ -10,8 +10,7 @@
 
 <pre><b>></b> man kryvokhyzha
   <b>Main language:        </b> Python
-  <b>Additional languages: </b> Java, Scala, JS
-  <b>Big data:             </b> PySpark, Apache Hive
+  <b>Big data & Cloud:     </b> PySpark, Apache Hive, Azure
   <b>Database:             </b> Postgres, MongoDB
   <b>DevOps:               </b> Docker, Travis-CI
 <b>></b>
