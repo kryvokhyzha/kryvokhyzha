@@ -21,7 +21,3 @@
   <b>Certifications:        </b> `AWS Certified Machine Learning – Specialty`, `Microsoft Certified: Azure Data Scientist Associate`
 <b>></b>
 </pre>
-
-### GitHub Analytics
-
-[![Stats](https://github-readme-stats.vercel.app/api/?username=kryvokhyzha&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
