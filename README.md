@@ -5,7 +5,6 @@
 ### About
 
 ✨ Currently a <b>Machine Learning Engineer</b> at [Kyivstar🇺🇦](https://kyivstar.ua/business/products/big-data).<br>
-📄 View my CV: [click to open](https://drive.google.com/file/d/1oaANsL_WRfVJH87hnjkp_to9xPrnQzgB/view?usp=drive_link)<br>
 :checkered_flag::books: Graduated from [KAU](https://kau.org.ua/en/), "Computer Science" specialization.<br>
 :checkered_flag::books: Graduated from [KPI](https://kpi.ua/en/), FICT, "Information System and Technologies" specialization.<br>
 
